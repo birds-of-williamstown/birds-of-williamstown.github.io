@@ -1,5 +1,7 @@
 # Birds of Williamstown
 
+An annotated list of bird species reported in Williamstown, MA, USA. Originally compiled by Thomas Kirby.
+
 ## Main Species List
 
 | Species | Year | Date | Location | Found by | Source | Notes |
