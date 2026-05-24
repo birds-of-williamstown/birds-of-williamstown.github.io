@@ -57,7 +57,6 @@ An annotated list of bird species reported in Williamstown, MA, USA. Originally 
 | Semipalmated Plover | | | | | |
 | Killdeer | | | | | |
 | Upland Sandpiper | c. 1949 | Field Farm | Weatherbee | | Breeder in Williamstown in the early 20th century (Blake). |
-| Sanderling | July 25, 2025 | Hopkins Forest | Motus detection | [motus.org](https://motus.org/dashboard/#e=profile&d=stations&s=12938&f=%7B%22dtStart%22%3A%222025-05-24%22%7D) | |
 | Least Sandpiper | | | | | |
 | Pectoral Sandpiper | | | | | |
 | Semipalmated Sandpiper | | | | | |
@@ -288,6 +287,16 @@ An annotated list of bird species reported in Williamstown, MA, USA. Originally 
 | Budgerigar | Aug 26, 2020 | Pine Cobble Rd. | T. Kirby | | |
 | European Goldfinch | Oct 21, 1933 | | Cartwright | | |
 
+## Motus geolocator tag detections (i.e., confirmed but not yet by a human)
+
+[motus.org](https://motus.org/dashboard/#e=profile&d=stations&s=12938&f=%7B%22dtStart%22%3A%222025-05-24%22%7D)
+
+| Species | Most recent report | Location | Found by | Source | Notes |
+|---|---|---|---|---|---|
+| Short-billed Dowitcher | Aug 20, 2025 | Hopkins Forest | | | Same bird was detected at October Mtn Motus Station |
+| Sanderling | July 25, 2025 | Hopkins Forest | | | |
+| Bicknell's Thrush | Jan 22, 2026 | Hopkins Forest | | | Also, bred on Mt. Greylock until at least 1896 (Faxon & Hoffmann), last reported 1911 (Faxon & Hoffmann supplement). No certain confirmation? |
+
 ## Likely
 
 | Species | Most recent report | Location | Found by | Source | Notes |
@@ -308,7 +317,6 @@ An annotated list of bird species reported in Williamstown, MA, USA. Originally 
 | American Three-toed Woodpecker | | | | | A breeding pair was found on Mt. Greylock in August 1919 by Cartwright and Forbush. |
 | Acadian Flycatcher | | | | | |
 | Canada Jay | | | | | |
-| Bicknell's Thrush | | | | | Breeder on Mt. Greylock until at least 1896 (Faxon & Hoffmann), last reported 1911 (Faxon & Hoffmann supplement). |
 | Lark Sparrow | Nov 7, 2020 | Sloan Rd. | Johnson | | Brief view, tentative ID. |
 | Yellow-breasted Chat | | Hopkins Forest? | | Weatherbee | Weatherbee: "I think I heard of someone seeing one, possibly at Hopkins Forest." |
 | Worm-eating Warbler | | | | | |
@@ -325,7 +333,6 @@ An annotated list of bird species reported in Williamstown, MA, USA. Originally 
 | American Golden-Plover | | | | | |
 | Ruddy Turnstone | | | | | |
 | White-rumped Sandpiper | | | | | |
-| Short-billed Dowitcher | | | | | |
 | Wilson's Phalarope | | | | | |
 | Willet | ≤ 1858 | | Hopkins | Chadbourne | Taken for Williams College collection, but more likely Greater Yellowlegs, which did not appear on the 1858 list. No longer in collection. |
 | Lesser Black-backed Gull | | | | | |
