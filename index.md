@@ -2,7 +2,7 @@
 
 Originally compiled by Thomas Kirby.
 
-## Main Species List
+## Main Species List (confirmed reports)
 
 | Species | Most recent report | Location | Found by | Source | Notes |
 |---|---|---|---|---|---|
