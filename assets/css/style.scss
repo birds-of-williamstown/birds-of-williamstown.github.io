@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Let the table fill the available width */
+table {
+  width: 100%;
+}
+
+/* Default: don't wrap cells -- keep them on one line where possible */
+table th,
+table td {
+  white-space: nowrap;
+}
+
+/* Exception: allow the Notes column (7th) to wrap, since it can be long */
+table th:nth-child(7),
+table td:nth-child(7) {
+  white-space: normal;
+}
