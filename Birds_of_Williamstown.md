@@ -1,0 +1,336 @@
+# Birds of Williamstown
+
+## Main Species List
+
+| Species | Year | Date | Location | Found by | Source | Notes |
+|---|---|---|---|---|---|---|
+| Snow Goose | | | | | | |
+| Greater White-fronted Goose | 2016 | 13-Nov | New Ashford Rd. | Pierce | | |
+| Brant | 2024 | 24-Nov | f/o Field Farm | Seaman | | Previously 10/27/2020, f/o Front St., M. Morales. |
+| Cackling Goose | | | | | | |
+| Canada Goose | | | | | | |
+| Mute Swan | | | | | | |
+| Wood Duck | | | | | | |
+| Blue-winged Teal | | | | | | |
+| Northern Shoveler | | | | | | |
+| Gadwall | | | | | | |
+| American Wigeon | | | | | | |
+| Mallard | | | | | | |
+| American Black Duck | | | | | | |
+| Northern Pintail | | | | | | |
+| Green-winged Teal | | | | | | |
+| Redhead | 2020 | 16-Oct | Bridges Pond | Johnson | | |
+| Ring-necked Duck | | | | | | |
+| Greater Scaup | | | | | | |
+| Lesser Scaup | | | | | | |
+| Surf Scoter | | | | | | |
+| White-winged Scoter | | | | | | |
+| Black Scoter | | | | | | |
+| Long-tailed Duck | | | | | | |
+| Bufflehead | | | | | | |
+| Common Goldeneye | | | | | | |
+| Barrow's Goldeneye | 2016 | 26-Mar | Moore's Pond | C. Jones | | |
+| Hooded Merganser | | | | | | |
+| Common Merganser | | | | | | |
+| Red-breasted Merganser | | | | | | |
+| Ruddy Duck | | | | | | |
+| Ruffed Grouse | | | | | | |
+| Wild Turkey | | | | | | |
+| Pied-billed Grebe | | | | | | |
+| Horned Grebe | | | | | | |
+| Red-necked Grebe | | | | | | |
+| Rock Pigeon | | | | | | |
+| Passenger Pigeon | 1833 | 22-Mar | | Emmons | | Emmons, 1834. Emmons notes this as their date of arrival in 1833. |
+| Mourning Dove | | | | | | |
+| Yellow-billed Cuckoo | | | | | | |
+| Black-billed Cuckoo | | | | | | |
+| Common Nighthawk | | | | | | |
+| Eastern Whip-poor-will | 1995 | Jun | Bee Hill | Brulé, Reed-Evans | | |
+| Chimney Swift | | | | | | |
+| Ruby-throated Hummingbird | | | | | | |
+| Virginia Rail | | | | | | |
+| Sora | | | | | | |
+| Common Gallinule | | | | | | |
+| American Coot | | | | | | |
+| Semipalmated Plover | | | | | | |
+| Killdeer | | | | | | |
+| Upland Sandpiper | c. 1949 | | Field Farm | Weatherbee | | Breeder in Williamstown in the early 20th century (Blake). |
+| Least Sandpiper | | | | | | |
+| Pectoral Sandpiper | | | | | | |
+| Semipalmated Sandpiper | | | | | | |
+| American Woodcock | | | | | | |
+| Wilson's Snipe | | | | | | |
+| Red-necked Phalarope | 2014 | 17-May | Hoosic River bend | D. Jones, Werner | | |
+| Spotted Sandpiper | | | | | | |
+| Solitary Sandpiper | | | | | | |
+| Greater Yellowlegs | | | | | | |
+| Lesser Yellowlegs | | | | | | |
+| Dovekie | 1950 | 28-Nov | Hoosic River | Winn | St. James | |
+| Bonaparte's Gull | 2020 | 16-Apr | Field Farm | M. Morales | | |
+| Laughing Gull | 1995/'96 | | | | Floyd | |
+| Ring-billed Gull | | | | | | |
+| American Herring Gull | | | | | | |
+| Iceland Gull | 2021 | 30-Oct | f/o Cobbleview Rd. | Auer | | |
+| Great Black-backed Gull | | | | | | |
+| Sooty Tern | 1876 | Sep | Near Hoosic River | Tenney | Faxon & Hoffmann | |
+| Common Loon | | | | | | |
+| Double-crested Cormorant | | | | | | |
+| American Bittern | | | | | | |
+| Least Bittern | 2025 | 7-May | Eph Pond | M. Morales | | |
+| Great Blue Heron | | | | | | |
+| Great Egret | | | | | | |
+| Snowy Egret | 2025 | 21-Aug | Eph Pond | Whitcomb* | Floyd | *called out the bird; other observers present: Albright, Alfaro, C. Jones, Schaller, Werner. Previously Aug./Sep. 1995/'96, Eph Pond (Floyd), and 4/10/1959, Cole Field, Cartwright. |
+| Little Blue Heron | 1995/'96 | Aug/Sep | Eph Pond | Floyd | | Observed by Floyd and students. Also one photographed at Harmon Pond (Weatherbee), date unknown. |
+| Tricolored Heron | 1966 | 19-May | Eph Pond | Whitehead | Kellogg & Smith | |
+| Green Heron | | | | | | |
+| Black-crowned Night-Heron | 2020 | 17-May | Cole Field | Richie | | Previously 6/10/2007, Werner. |
+| Yellow-crowned Night-Heron | 2026 | 16-Apr | Church St. | Cook | | |
+| White Ibis | 2022 | 1-Sep | Eph Pond | Johnson* | | *called out the bird; other observers present: Burns, Hilderbrandt, C. Jones, Kelly, Kiewig, Levy, Schaller, Werner. |
+| Black Vulture | | | | | | |
+| Turkey Vulture | | | | | | |
+| Osprey | | | | | | |
+| Golden Eagle | | | | | | |
+| Mississippi Kite | 2016 | 29-May | f/o Chenail's Farm | J. Morales, M. Morales | | |
+| Northern Harrier | | | | | | |
+| Sharp-shinned Hawk | | | | | | |
+| Cooper's Hawk | | | | | | |
+| American Goshawk | | | | | | |
+| Bald Eagle | | | | | | |
+| Red-shouldered Hawk | | | | | | |
+| Broad-winged Hawk | | | | | | |
+| Red-tailed Hawk | | | | | | |
+| Rough-legged Hawk | | | | | | |
+| Eastern Screech-Owl | | | | | | |
+| Great Horned Owl | | | | | | |
+| Snowy Owl | 2013 | 19-Dec | Stoney Ledge Rd. | | Weatherbee | Also possibly recorded c. 2013 by Lawson on North Hoosac Rd. Non-birder but outdoorsman. Multiple sightings of bird believed to be Snowy Owl perching near his chicken coop. Also appears on Chadbourne's 1858 list. |
+| Northern Hawk Owl | ≤ 1858 | | | | Chadbourne | Collected. A specimen which is likely this bird is extant in the Williams College collection. |
+| Barred Owl | | | | | | |
+| Long-eared Owl | 2016 | 9-Oct | Hopkins Forest | D. Jones | | Banded. Previously 1995/'96 (Floyd). |
+| Short-eared Owl | 1995 | 16-Dec | Eph Pond | Evans | | |
+| Northern Saw-whet Owl | | | | | | |
+| Belted Kingfisher | | | | | | |
+| Yellow-bellied Sapsucker | | | | | | |
+| Red-headed Woodpecker | 2025 | 26-May | Proprietor's Fields | T. Kirby, W. Kirby | | In 2025, possibly a pair. Previously one on Northwest Hill Rd. 2014-2017, mainly in May. Also 5/6/1989, Baur. |
+| Red-bellied Woodpecker | | | | | | |
+| Downy Woodpecker | | | | | | |
+| Hairy Woodpecker | | | | | | |
+| Pileated Woodpecker | | | | | | |
+| Northern Flicker | | | | | | |
+| American Kestrel | | | | | | |
+| Merlin | | | | | | |
+| Peregrine Falcon | | | | | | |
+| Olive-sided Flycatcher | | | | | | |
+| Eastern Wood-Pewee | | | | | | |
+| Yellow-bellied Flycatcher | | | | | | |
+| Alder Flycatcher | | | | | | |
+| Willow Flycatcher | | | | | | |
+| Least Flycatcher | | | | | | |
+| Eastern Phoebe | | | | | | |
+| Great Crested Flycatcher | | | | | | |
+| Western Kingbird | 2021 | 17-Sep | Linear Park | M. Morales | | |
+| Eastern Kingbird | | | | | | |
+| White-eyed Vireo | 2024 | 1-May | Linear Park | Richie | | Historic breeder in Williamstown prior to 1858 (Blake). |
+| Yellow-throated Vireo | | | | | | |
+| Blue-headed Vireo | | | | | | |
+| Philadelphia Vireo | | | | | | |
+| Eastern Warbling Vireo | | | | | | |
+| Red-eyed Vireo | | | | | | |
+| Loggerhead Shrike | 1886 | Spring | | Tenney | McNair | Two nests found in May 1883, one in 1886. |
+| Northern Shrike | | | | | | |
+| Blue Jay | | | | | | |
+| American Crow | | | | | | |
+| Fish Crow | | | | | | |
+| Common Raven | | | | | | |
+| Black-capped Chickadee | | | | | | |
+| Boreal Chickadee | 2020 | Dec | North Hoosac Rd. | van Handel | | Several prior records. |
+| Tufted Titmouse | | | | | | |
+| Horned Lark | | | | | | |
+| Northern Rough-winged Swallow | | | | | | |
+| Purple Martin | 1883 | Jun | | Brewster | Brewster | |
+| Tree Swallow | | | | | | |
+| Bank Swallow | | | | | | |
+| Barn Swallow | | | | | | |
+| Cliff Swallow | | | | | | |
+| Golden-crowned Kinglet | | | | | | |
+| Ruby-crowned Kinglet | | | | | | |
+| Red-breasted Nuthatch | | | | | | |
+| White-breasted Nuthatch | | | | | | |
+| Brown Creeper | | | | | | |
+| Blue-gray Gnatcatcher | | | | | | |
+| Northern House Wren | | | | | | |
+| Winter Wren | | | | | | |
+| Sedge Wren | 2018 | 28-May | Sloan Rd. | Johnson | | Also appears on the 1858 Chadbourne list. |
+| Marsh Wren | | | | | | |
+| Carolina Wren | | | | | | |
+| European Starling | | | | | | |
+| Gray Catbird | | | | | | |
+| Brown Thrasher | | | | | | |
+| Northern Mockingbird | | | | | | |
+| Eastern Bluebird | | | | | | |
+| Mountain Bluebird | 2013 | 28-Apr | Field Farm | Hurley | | |
+| Varied Thrush | 1980 | 31-Mar | | Weatherbee | St. James | |
+| Veery | | | | | | |
+| Gray-cheeked Thrush | | | | | | |
+| Swainson's Thrush | | | | | | |
+| Hermit Thrush | | | | | | |
+| Wood Thrush | | | | | | |
+| American Robin | | | | | | |
+| Bohemian Waxwing | | | | | | |
+| Cedar Waxwing | | | | | | |
+| House Sparrow | | | | | | |
+| American Pipit | | | | | | |
+| Evening Grosbeak | | | | | | |
+| Pine Grosbeak | | | | | | |
+| House Finch | | | | | | |
+| Purple Finch | | | | | | |
+| Redpoll | | | | | | |
+| Red Crossbill | | | | | | |
+| White-winged Crossbill | | | | | | |
+| Pine Siskin | | | | | | |
+| American Goldfinch | | | | | | |
+| Lapland Longspur | | | | | | |
+| Snow Bunting | | | | | | |
+| Grasshopper Sparrow | 2008 | 6-May | Linear Park | Wilder | | Previously 4/18/2004, Miller. |
+| Chipping Sparrow | | | | | | |
+| Clay-colored Sparrow | 2024 | 12-May | Linear Park | M. Morales | | Previously 5/6/2011, Cole Field, Reed-Evans. |
+| Field Sparrow | | | | | | |
+| American Tree Sparrow | | | | | | |
+| Fox Sparrow | | | | | | |
+| Dark-eyed Junco | | | | | | |
+| White-crowned Sparrow | | | | | | |
+| Harris's Sparrow | 2011 | 24-Nov | Scott Hill Rd. | March | St. James | |
+| White-throated Sparrow | | | | | | |
+| Vesper Sparrow | | | | | | |
+| Savannah Sparrow | | | | | | |
+| Henslow's Sparrow | 2003 | Spring | Field Farm marsh | Soucie | | Historic breeder in Williamstown (Bailey). |
+| Song Sparrow | | | | | | |
+| Lincoln's Sparrow | | | | | | |
+| Swamp Sparrow | | | | | | |
+| Eastern Towhee | | | | | | |
+| Yellow-headed Blackbird | 1975 | 23-Oct | | McNair | Blake | Previously 3/19/1960, Raymond and Treadway, and 2/19/1950, Treadway. |
+| Bobolink | | | | | | |
+| Eastern Meadowlark | | | | | | |
+| Orchard Oriole | | | | | | |
+| Baltimore Oriole | | | | | | |
+| Red-winged Blackbird | | | | | | |
+| Brown-headed Cowbird | | | | | | |
+| Rusty Blackbird | | | | | | |
+| Common Grackle | | | | | | |
+| Ovenbird | | | | | | |
+| Louisiana Waterthrush | | | | | | |
+| Northern Waterthrush | | | | | | |
+| Golden-winged Warbler | 2026 | 18-May | Mountain Meadow | W. Kirby | | Previously 5/10/2002, Linear Park, Morales, and 1995/'96 (Floyd). |
+| Blue-winged Warbler | | | | | | |
+| Black-and-white Warbler | | | | | | |
+| Prothonotary Warbler | 1995/'96 | | | | Floyd | |
+| Tennessee Warbler | | | | | | |
+| Orange-crowned Warbler | | | | | | |
+| Nashville Warbler | | | | | | |
+| Connecticut Warbler | | | | | | |
+| Mourning Warbler | | | | | | |
+| Kentucky Warbler | 2022 | 23-May | Hopkins Forest | Shustack | | Previously 5/23/2010, The Clark, Reed-Evans. |
+| Common Yellowthroat | | | | | | |
+| Hooded Warbler | | | | | | |
+| American Redstart | | | | | | |
+| Cape May Warbler | | | | | | |
+| Northern Parula | | | | | | |
+| Magnolia Warbler | | | | | | |
+| Bay-breasted Warbler | | | | | | |
+| Blackburnian Warbler | | | | | | |
+| Northern Yellow Warbler | | | | | | |
+| Chestnut-sided Warbler | | | | | | |
+| Blackpoll Warbler | | | | | | |
+| Black-throated Blue Warbler | | | | | | |
+| Palm Warbler | | | | | | |
+| Pine Warbler | | | | | | |
+| Yellow-rumped Warbler | | | | | | |
+| Prairie Warbler | | | | | | |
+| Black-throated Green Warbler | | | | | | |
+| Canada Warbler | | | | | | |
+| Wilson's Warbler | | | | | | |
+| Summer Tanager | 2017 | 7-May | Front St. | J. Morales | | |
+| Scarlet Tanager | | | | | | |
+| Western Tanager | 2015 | 24-Oct | Chenail's Farm | Johnson | Blake | |
+| Northern Cardinal | | | | | | |
+| Rose-breasted Grosbeak | | | | | | |
+| Black-headed Grosbeak | 1988 | 18-Aug | | Thomas | St. James | |
+| Indigo Bunting | | | | | | |
+| Dickcissel | | | | | | Appears on Chadbourne's 1858 list; historic breeder prior to 1858 (Faxon & Hoffmann). |
+
+## Hybrids
+
+| Species | Year | Date | Location | Found by | Source | Notes |
+|---|---|---|---|---|---|---|
+| Mallard x American Black Duck | | | | | | |
+| Golden-winged x Blue-winged Warbler | | | | | | |
+
+## Atypical Subspecies and Types
+
+| Species | Year | Date | Location | Found by | Source | Notes |
+|---|---|---|---|---|---|---|
+| Green-winged Teal – Eurasian | 2021 | 28-Feb | Hoosic River bend | Johnson | | |
+| Red-tailed Hawk – Northern | | | | | | |
+| Redpoll – Hoary | | | | | | |
+| Red Crossbill – Type 2 | 2021 | 15-Feb | Grandview Dr. | T. Kirby | | |
+
+## Released/Escaped
+
+| Species | Year | Date | Location | Found by | Source | Notes |
+|---|---|---|---|---|---|---|
+| Muscovy Duck | | | | | | |
+| Northern Bobwhite | 2007 | 2-Jun | Chapin Court | M. Morales | | |
+| Chukar | c. 1990 | | South Wtown. | Reed-Evans | | |
+| Golden Pheasant | c. 1990 | | Luce Road | Reed-Evans | | |
+| Ring-necked Pheasant | | | | | | |
+| Budgerigar | 2020 | 26-Aug | Pine Cobble Rd. | T. Kirby | | |
+| European Goldfinch | 1933 | 21-Oct | | Cartwright | | |
+
+## Likely
+
+| Species | Year | Date | Location | Found by | Source | Notes |
+|---|---|---|---|---|---|---|
+| Glossy Ibis | 2024 | 25-Aug | Eph Pond | Fields | | From eBird: "Unmistakable dark silouette, large bird with thin downward sloping beak and rapid directed flight without wing flaps...viewed for perhaps 75 yards from marsh next to soccer field to Eph pond, visibility obscured by marsh and trees.. where it disappeared from view." One was photographed in Northfield a few hours later. |
+| Gyrfalcon | 1997 | 7-Nov | | Atkinson | Blake | Likely correct ID (personal comment Blake). |
+
+## Somewhat Likely
+
+| Species | Year | Date | Location | Found by | Source | Notes |
+|---|---|---|---|---|---|---|
+| Trumpeter/Tundra Swan | | | | | | Reed-Evans had a flyover of a single swan on Spring St. on 9/17/22, with an impression from the head profile of Trumpeter/Tundra. |
+| Sandhill Crane | | | | | | M. Kirby recorded a pair of probable Sandhill Cranes in flight away from Williamstown near the town line in North Adams. There are at least two known records of SACRs on the ground in North Adams. |
+| Long-billed Curlew | ≤ 1833? | | | Emmons | St. James | Ebenezer Emmons, a professor of natural science at Williams College, wrote in 1833 that this curlew was found rarely on the Hoosic River. No further details are known and the species does not appear on the 1858 Williams College List. |
+| Sanderling | | | | | | |
+| Dunlin | | | | | | |
+| Common Tern | | | | | | |
+| Red-throated Loon | | | | | | |
+| American Three-toed Woodpecker | | | | | | A breeding pair was found on Mt. Greylock in August 1919 by Cartwright and Forbush. |
+| Acadian Flycatcher | | | | | | |
+| Canada Jay | | | | | | |
+| Bicknell's Thrush | | | | | | Breeder on Mt. Greylock until at least 1896 (Faxon & Hoffmann), last reported 1911 (Faxon & Hoffmann supplement). |
+| Lark Sparrow | 2020 | 7-Nov | Sloan Rd. | Johnson | | Brief view, tentative ID. |
+| Yellow-breasted Chat | | | Hopkins Forest? | | Weatherbee | Weatherbee: "I think I heard of someone seeing one, possibly at Hopkins Forest." |
+| Worm-eating Warbler | | | | | | |
+
+## Unlikely
+
+| Species | Year | Date | Location | Found by | Source | Notes |
+|---|---|---|---|---|---|---|
+| Canvasback | | | | | | |
+| Greater Prairie-Chicken | | | | | | In an 1839 report on the birds of MA, Rev. W.B.O. Peabody wrote that this species was "once very common in New England." The last MA record is on Martha's Vineyard in 1932. |
+| Rufous Hummingbird | | | | | | |
+| King Rail | | | | | | |
+| Black-bellied Plover | | | | | | |
+| American Golden-Plover | | | | | | |
+| Ruddy Turnstone | | | | | | |
+| White-rumped Sandpiper | | | | | | |
+| Short-billed Dowitcher | | | | | | |
+| Wilson's Phalarope | | | | | | |
+| Willet | ≤ 1858 | | | Hopkins | Chadbourne | Taken for Williams College collection, but more likely Greater Yellowlegs, which did not appear on the 1858 list. No longer in collection. |
+| Lesser Black-backed Gull | | | | | | |
+| Black Tern | | | | | | |
+| Western Cattle Egret | | | | | | |
+| Black-backed Woodpecker | | | | | | One was seen on Mt. Greylock summit on 2/22/1928 by Bailey. |
+| Nelson's Sparrow | | | | | | |
+| Cerulean Warbler | | | | | | |
+| Blue Grosbeak | | | | | | |
+| Painted Bunting | 1995 | 11-Oct | | Agee | MARC | Female-type; rejected by MARC due to insufficient ID details. |
