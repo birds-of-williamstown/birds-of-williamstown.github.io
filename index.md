@@ -289,7 +289,7 @@ An annotated list of bird species reported in Williamstown, MA, USA. Originally 
 
 ## Motus geolocator tag detections (i.e., confirmed but not yet by a human)
 
-[motus.org](https://motus.org/dashboard/#e=profile&d=stations&s=12938&f=%7B%22dtStart%22%3A%222025-05-24%22%7D)
+Hopkins Forest Motus Tower Data: [motus.org](https://motus.org/dashboard/#e=profile&d=stations&s=12938&f=%7B%22dtStart%22%3A%222025-05-24%22%7D)
 
 | Species | Most recent report | Location | Found by | Source | Notes |
 |---|---|---|---|---|---|
