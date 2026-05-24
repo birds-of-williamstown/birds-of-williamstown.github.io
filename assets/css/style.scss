@@ -21,8 +21,8 @@ table td {
   white-space: nowrap;
 }
 
-/* Exception: allow the Notes column (7th) to wrap, since it can be long */
-table th:nth-child(7),
-table td:nth-child(7) {
+/* Exception: allow the Notes column (6th) to wrap, since it can be long */
+table th:nth-child(6),
+table td:nth-child(6) {
   white-space: normal;
 }
