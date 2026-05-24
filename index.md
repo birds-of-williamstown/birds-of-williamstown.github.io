@@ -295,7 +295,7 @@ Hopkins Forest Motus Tower Data: [motus.org](https://motus.org/dashboard/#e=prof
 |---|---|---|---|---|---|
 | Short-billed Dowitcher | Aug 20, 2025 | Hopkins Forest | | | Same bird was detected at October Mtn Motus Station |
 | Sanderling | July 25, 2025 | Hopkins Forest | | | |
-| Bicknell's Thrush | Jan 22, 2026 | Hopkins Forest | | | Also, bred on Mt. Greylock until at least 1896 (Faxon & Hoffmann), last reported 1911 (Faxon & Hoffmann supplement). No certain confirmation? |
+| Bicknell's Thrush | Jan 22, 2026 | Hopkins Forest | | | Also, bred on Mt. Greylock until at least 1896 (Faxon & Hoffmann), last reported 1911 (Faxon & Hoffmann supplement). Not confirmed within border of Williamstown. |
 
 ## Likely
 
