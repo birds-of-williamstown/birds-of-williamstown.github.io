@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+/* Widen the content area to use most of the viewport */
+.main-content {
+  max-width: none;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
 /* Let the table fill the available width */
 table {
   width: 100%;
