@@ -57,6 +57,7 @@ An annotated list of bird species reported in Williamstown, MA, USA. Originally 
 | Semipalmated Plover | | | | | |
 | Killdeer | | | | | |
 | Upland Sandpiper | c. 1949 | Field Farm | Weatherbee | | Breeder in Williamstown in the early 20th century (Blake). |
+| Sanderling | July 25, 2025 | Hopkins Forest | Motus detection | [motus.org](https://motus.org/dashboard/#e=profile&d=stations&s=12938&f=%7B%22dtStart%22%3A%222025-05-24%22%7D) | |
 | Least Sandpiper | | | | | |
 | Pectoral Sandpiper | | | | | |
 | Semipalmated Sandpiper | | | | | |
@@ -301,7 +302,6 @@ An annotated list of bird species reported in Williamstown, MA, USA. Originally 
 | Trumpeter/Tundra Swan | | | | | Reed-Evans had a flyover of a single swan on Spring St. on 9/17/22, with an impression from the head profile of Trumpeter/Tundra. |
 | Sandhill Crane | | | | | M. Kirby recorded a pair of probable Sandhill Cranes in flight away from Williamstown near the town line in North Adams. There are at least two known records of SACRs on the ground in North Adams. |
 | Long-billed Curlew | ≤ 1833? | | Emmons | St. James | Ebenezer Emmons, a professor of natural science at Williams College, wrote in 1833 that this curlew was found rarely on the Hoosic River. No further details are known and the species does not appear on the 1858 Williams College List. |
-| Sanderling | | | | | |
 | Dunlin | | | | | |
 | Common Tern | | | | | |
 | Red-throated Loon | | | | | |
