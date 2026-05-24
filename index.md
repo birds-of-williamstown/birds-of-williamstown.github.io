@@ -81,7 +81,7 @@ Originally compiled by Thomas Kirby. Report details are included only for the mo
 | Least Bittern | May 7, 2025 | Eph Pond | M. Morales | | |
 | Great Blue Heron | | | | | |
 | Great Egret | | | | | |
-| Snowy Egret | Aug 21, 2025 | Eph Pond | Whitcomb* | Floyd | *called out the bird; other observers present: Albright, Alfaro, C. Jones, Schaller, Werner. Previously Aug./Sep. 1995/'96, Eph Pond (Floyd), and 4/10/1959, Cole Field, Cartwright. |
+| Snowy Egret | Aug 21, 2025 | Eph Pond | Whitcomb* | Floyd | *called out the bird; other observers present: Albright, Alfaro, C. Jones, Schaller, Werner. Re-found on Aug 25 on Hoosic River by W. Kirby. Previously Aug./Sep. 1995/'96, Eph Pond (Floyd), and 4/10/1959, Cole Field, Cartwright. |
 | Little Blue Heron | Aug/Sep 1995/'96 | Eph Pond | Floyd | | Observed by Floyd and students. Also one photographed at Harmon Pond (Weatherbee), date unknown. |
 | Tricolored Heron | May 19, 1966 | Eph Pond | Whitehead | Kellogg & Smith | |
 | Green Heron | | | | | |
