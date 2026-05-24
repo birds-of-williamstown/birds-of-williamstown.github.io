@@ -1,6 +1,6 @@
 # Birds of Williamstown
 
-Originally compiled by Thomas Kirby. Report details are included only for the most notable species -- others can be found for example on [ebird.org](ebird.org).
+Originally compiled by Thomas Kirby. Report details are included only for the most notable species -- others can be found for example on [eBird](https://ebird.org).
 
 ## Main Species List (confirmed reports)
 
