@@ -343,3 +343,6 @@ Hopkins Forest Motus Tower Data: [motus.org](https://motus.org/dashboard/#e=prof
 | Cerulean Warbler | | | | | |
 | Blue Grosbeak | | | | | |
 | Painted Bunting | 1995 Oct 11 | | Agee | MARC | Female-type; rejected by MARC due to insufficient ID details. |
+
+## Observers
+Agee; Albright, Ericka; Alfaro, Charlene; Atkinson, Ted; Auer, Sonya; Bailey, S. Waldo; Baur, John; Brewster, William; Brulé, Tom; Burns, Chelsie; Cartwright, William; Cook, Mea; Emmons, Ebenezer; Evans, Art; Fields, Linda; Forbush, Edward Howe Jr.; Hilderbrandt, Kim; Hopkins; Hurley, Gael; Johnson, Chuck; Jones, Carrie; Jones, Drew; Floyd, Ted; Kelly, Karen; Keogh, Sean; Kieweg, Chuck; Kirby, Mary; Kirby, Tom; Kirby, Will; Lawson, Dan; Levy, William; March, Hal; McNair, Douglas; Miller, Sam; Morales, John; Morales, Manuel; Pierce, Jonathan; Raymond, Edward; Reed-Evans, Leslie; Richie, Tommy; Schaller, David; Seaman, Paul; Shustack, Dan; Soucie, Gary; Tenney, Sanborn; Thomas, Jurgen; Treadway, John; van Handel, Lori; Weatherbee, Pam; Werner, Audrey; Whitcomb, Rich; Whitehead, Donald; Wilder, Jason; Winn, Albert.
