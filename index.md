@@ -9,7 +9,7 @@ Originally compiled by Thomas Kirby. Report details are included only for the mo
 | Snow Goose | | | | | |
 | Greater White-fronted Goose | 2016 Nov 13 | New Ashford Rd. | Pierce | | |
 | Brant | 2024 Nov 24 | f/o Field Farm | Seaman | | Previously 10/27/2020, f/o Front St., M. Morales. |
-| Cackling Goose | | | | |  |
+| Cackling Goose | | | | | |
 | Canada Goose | | | | | |
 | Mute Swan | | | | | |
 | Wood Duck | | | | | |
@@ -42,7 +42,7 @@ Originally compiled by Thomas Kirby. Report details are included only for the mo
 | Horned Grebe | | | | | |
 | Red-necked Grebe | | | | | |
 | Rock Pigeon | | | | | |
-| Passenger Pigeon | 1833 Mar 22 | | Emmons | | Emmons, 1834. Emmons notes this as their date of arrival in 1833. |
+| Passenger Pigeon | 1833 Mar 22 | | Emmons | Emmons (1834) | Emmons noted this as their 1833 date of arrival. |
 | Mourning Dove | | | | | |
 | Yellow-billed Cuckoo | | | | | |
 | Black-billed Cuckoo | | | | | |
@@ -81,7 +81,7 @@ Originally compiled by Thomas Kirby. Report details are included only for the mo
 | Least Bittern | 2025 May 7 | Eph Pond | M. Morales | | |
 | Great Blue Heron | | | | | |
 | Great Egret | | | | | |
-| Snowy Egret | 2025 Aug 21 | Eph Pond | Whitcomb* | Floyd | *called out the bird; other observers present: Albright, Alfaro, C. Jones, Schaller, Werner. Re-found on Aug 25 on Hoosic River by W. Kirby. Previously Aug./Sep. 1995/'96, Eph Pond (Floyd), and 4/10/1959, Cole Field, Cartwright. |
+| Snowy Egret | 2025 Aug 21 | Eph Pond | Whitcomb* | Floyd | *called out the bird; other observers present: Albright, Alfaro, C. Jones, Schaller, Werner. Re-found 8/25 on the Hoosic River by W. Kirby. Previously Aug./Sep. 1995/'96, Eph Pond (Floyd), and 4/10/1959, Cole Field, Cartwright. |
 | Little Blue Heron | 1995/'96 Aug/Sep | Eph Pond | Floyd | | Observed by Floyd and students. Also one photographed at Harmon Pond (Weatherbee), date unknown. |
 | Tricolored Heron | 1966 May 19 | Eph Pond | Whitehead | Kellogg & Smith | |
 | Green Heron | | | | | |
