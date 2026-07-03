@@ -9,7 +9,7 @@ Originally compiled by Thomas Kirby. Report details are included only for the mo
 | Snow Goose | | | | | |
 | Greater White-fronted Goose | 2016 Nov 13 | New Ashford Rd. | Pierce | | |
 | Brant | 2024 Nov 24 | f/o Field Farm | Seaman | | Previously 10/27/2020, f/o Front St., M. Morales. |
-| Cackling Goose | | | | | |
+| Cackling Goose | | | | |  |
 | Canada Goose | | | | | |
 | Mute Swan | | | | | |
 | Wood Duck | | | | | |
